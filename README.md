@@ -18,7 +18,7 @@ If you want to know more about **Overhack Project** please [click here](https://
          <td colspan="2">Join our <a href="https://www.overhack.cloud/discord">Discord Server</a></td>
       </tr>
       <tr>
-          <td colspan="2">Please check the <a href="wiki">Wiki</a> to know more.</td>
+          <td colspan="2">Please check the <a href="/Overhack/DiscordBot/wiki">Wiki</a> to know more.</td>
       </tr>
    </tbody></table>
 </div>
