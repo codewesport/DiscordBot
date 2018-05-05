@@ -1,0 +1,13 @@
+{
+	"loop" : {
+		"refresh" : 60000,
+		"refresh_premium" : 3600000
+	},
+	"paths" : {
+		"database" : "./database/",
+		"logs" : "./logs/",
+		"settings" : "./settings/"
+	},
+	"server" : "YOUR_SERVER_ID",
+	"token" : "YOUR_LOGIN_API_TOKEN"
+}
