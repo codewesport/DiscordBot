@@ -1,8 +1,8 @@
-<img align="left" src="https://www.overhack.cloud/images/overhack/logo.png" width="60" height="60" />
+<img align="left" src="https://www.overhack.one/images/overhack/logo.png" width="60" height="60" />
 
 # OFFICIAL OVERHACK DISCORD BOT
 Welcome to the official GitHub repository dedicated to the **Overhack Discord Bot**. **Overhack Project** is a free competitive platform, with a dedicated Anti-Cheat, for the first time as a server-side application.
-If you want to know more about **Overhack Project** please [click here](https://www.overhack.cloud).
+If you want to know more about **Overhack Project** please [click here](https://www.overhack.one).
 
 <div align="center">
    
@@ -12,7 +12,7 @@ If you want to know more about **Overhack Project** please [click here](https://
          <td>v1.0</td>
       </tr>
       <tr>
-         <td colspan="2"><a href="https://www.overhack.cloud">https://www.overhack.cloud</a></td>
+         <td colspan="2"><a href="https://www.overhack.cloud">https://www.overhack.one</a></td>
       </tr>
       <tr>
          <td colspan="2">Join our <a href="https://www.overhack.cloud/discord">Discord Server</a></td>
