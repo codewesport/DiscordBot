@@ -12,10 +12,10 @@ If you want to know more about **Overhack Project** please [click here](https://
          <td>v1.0</td>
       </tr>
       <tr>
-         <td colspan="2"><a href="https://www.overhack.cloud">https://www.overhack.one</a></td>
+         <td colspan="2"><a href="https://www.overhack.one">https://www.overhack.one</a></td>
       </tr>
       <tr>
-         <td colspan="2">Join our <a href="https://www.overhack.cloud/discord">Discord Server</a></td>
+         <td colspan="2">Join our <a href="https://www.overhack.one/discord">Discord Server</a></td>
       </tr>
       <tr>
           <td colspan="2">Please check the <a href="https://www.github.com/Overhack/DiscordBot/wiki">Wiki</a> to know more.</td>
